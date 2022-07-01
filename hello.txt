@@ -6,5 +6,5 @@ hello git! hello myself!
 hello git! hello myself!
 hello git! hello myself!
 hello git! hello myself!
-hello git! hello myself! master test
-hello git! hello myself!
+hello git! hello myself! master tes
+hello git! hello myself! hot-fix test
